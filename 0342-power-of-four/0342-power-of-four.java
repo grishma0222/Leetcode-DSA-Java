@@ -6,6 +6,7 @@ class Solution {
         {
             long res=(long)Math.pow(4,i);
             if(res==n){return true;}
+            if(res>n){return false;}
         }
       } 
       return false; 

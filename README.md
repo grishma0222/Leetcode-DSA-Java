@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
 ## Newton's Method
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

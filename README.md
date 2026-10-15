@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
 | ------- |
@@ -110,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

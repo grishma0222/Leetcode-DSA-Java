@@ -10,7 +10,7 @@ class Solution {
         {
             sum +=i;
         
-       
+        
        if(i!=num/i)
        {
         sum +=num/i;

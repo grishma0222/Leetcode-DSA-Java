@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0507-perfect-number) |
 ## Newton's Method
 |  |
 | ------- |

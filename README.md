@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0875-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |

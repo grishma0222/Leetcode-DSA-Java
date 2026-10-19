@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |

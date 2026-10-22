@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0414-third-maximum-number) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

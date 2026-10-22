@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0414-third-maximum-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -155,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

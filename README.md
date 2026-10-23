@@ -165,8 +165,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

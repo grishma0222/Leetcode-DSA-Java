@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0507-perfect-number) |
+| [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Newton's Method
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Recursion
 |  |
 | ------- |

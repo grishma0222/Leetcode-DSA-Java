@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0162-find-peak-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |

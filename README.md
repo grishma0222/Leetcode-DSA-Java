@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0069-sqrtx) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Recursion

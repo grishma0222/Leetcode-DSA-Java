@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3498-reverse-degree-of-a-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3794-reverse-string-prefix) |

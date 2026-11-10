@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |

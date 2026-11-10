@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0342-power-of-four) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

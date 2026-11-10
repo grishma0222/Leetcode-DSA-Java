@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |

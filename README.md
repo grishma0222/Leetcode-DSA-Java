@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking

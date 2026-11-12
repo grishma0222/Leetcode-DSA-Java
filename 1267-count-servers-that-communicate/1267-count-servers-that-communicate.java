@@ -1,6 +1,6 @@
 class Solution {
     public int countServers(int[][] grid) {
-     int n=grid.length;
+          int n=grid.length;
      int m=grid[0].length;
      int[] rows=new int[n];
      int[] cols=new int[m];

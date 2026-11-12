@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3898-find-the-degree-of-each-vertex) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

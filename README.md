@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -257,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0796-rotate-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

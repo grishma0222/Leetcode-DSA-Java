@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
 ## Newton's Method
 |  |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0414-third-maximum-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |

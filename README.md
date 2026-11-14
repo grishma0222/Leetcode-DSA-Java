@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1267-count-servers-that-communicate](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1539-kth-missing-positive-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0414-third-maximum-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3731-find-missing-elements) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0832-flipping-an-image) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3794-reverse-string-prefix](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/grishma0222/Leetcode-DSA-Java/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
